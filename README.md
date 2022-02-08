@@ -9,7 +9,7 @@
     <td>
 
     
-- 👨‍💻 To Know more about me at [My Website](https://atul-dev.netlify.app)
+- 👨‍💻 To Know more about me check out [My Website](https://atul-dev.netlify.app)
       
 - 🔭 I’m currently working on Something Intresting.
       
