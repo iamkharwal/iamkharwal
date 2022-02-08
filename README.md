@@ -7,17 +7,17 @@
 <table>
   <tr>
     <td>
-- 🌱 I’m currently learning **MERN Stack**
+- 👨‍💻 To Know more about me at [atul-dev](https://atul-dev.netlify.app/)
     
 - 🔭 I’m currently working on Something Intresting.
-
-- 👨‍💻 All of my projects are available at [My Website](https://atul-dev.netlify.app/)
+      
+- 🌱 I’m currently learning **MERN Stack**
       
 - 📫 How to reach me **atulkharwal9329@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1Tkqo1VaH1l1Im6S-XDusUesWmDxxk9FD?usp=sharing)
      
-- 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
+- 👨‍💻 Life Hack: Big Things Start Small 🎉
     
     </td>
     <td><img src="https://github.com/iamkharwal/React-Portfolio/blob/main/Images/giphy.gif"></td>
