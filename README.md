@@ -7,8 +7,10 @@
 <table>
   <tr>
     <td>
-- 👨‍💻 To Know more about me at [atul-dev](https://atul-dev.netlify.app/)
+
     
+- 👨‍💻 To Know more about me at [My Website](https://atul-dev.netlify.app)
+      
 - 🔭 I’m currently working on Something Intresting.
       
 - 🌱 I’m currently learning **MERN Stack**
