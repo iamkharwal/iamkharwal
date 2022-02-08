@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Atul Kharwal</h1>
-<h3 align="center">MERN Stack Web Developer</h3>
 <img src="https://github.com/iamkharwal/React-Portfolio/blob/main/Images/banner-portfolio.png">
 
 <h3 align="left">About Me:</h3>
