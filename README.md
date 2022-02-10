@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Atul Kharwal</h1>
-<img src="https://github.com/iamkharwal/React-Portfolio/blob/main/Images/banner-portfolio.png">
+<img src="https://m.media-amazon.com/images/I/519ggkqgwYL._SL1500_.jpg" style="width:100%">
 
 <h3 align="left">About Me:</h3>
 <hr>
