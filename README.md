@@ -45,3 +45,16 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkharwal&show_icons=true&locale=en&layout=compact" alt="iamkharwal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamkharwal&show_icons=true&locale=en" alt="iamkharwal" /></p>
+
+<p align="center">
+    <a href="https://github.com/iamkharwal/github-readme-streak-stats">
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anshul160196&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+  <p align="center">
+    <a href="https://github.com/iamkharwal/github-readme-stats"><img alt="iamkharwal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamkharwal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    </p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<a href="https://github.com/iamkharwal/github-readme-activity-graph"><img alt="iamkharwal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamkharwal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
