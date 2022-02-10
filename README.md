@@ -22,10 +22,10 @@
 - 👨‍💻 Life Hack: Big Things Start Small 🎉
     
     </td>
-    <td><img src="https://drive.google.com/uc?export=view&id=1GSMe_wNaD-cnf3tP3UjuGchnC5eFDATi"></td>
+    <td><img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></td>
   </tr>
  </table>
-
+<!-- https://drive.google.com/uc?export=view&id=1GSMe_wNaD-cnf3tP3UjuGchnC5eFDATi -->
 
 
 <br>
