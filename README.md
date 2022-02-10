@@ -1,6 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Atul Kharwal</h1>
-<img src="https://m.media-amazon.com/images/I/519ggkqgwYL._SL1500_.jpg" style="width:100%">
+<!-- <img src="https://m.media-amazon.com/images/I/519ggkqgwYL._SL1500_.jpg" style="width:100%"> -->
+<h3 align="center">MERN Stack Developer in the process.</h3>
+
+<p align= "center">
+<img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
+<img src="https://img.shields.io/badge/E-Express-black"/>
+<img src="https://img.shields.io/badge/R-React-skyblue"/>
+<img src="https://img.shields.io/badge/N-Node-green"/>
+<img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
+</p>
 
 <h3 align="left">About Me:</h3>
 <hr>
@@ -9,11 +18,13 @@
     <td>
 
     
-- 👨‍💻 To Know more about me check out [My Website](https://atul-dev.netlify.app)
+
       
 - 🔭 I’m currently working on Something Intresting.
       
 - 🌱 I’m currently learning **MERN Stack**
+      
+- 👨‍💻 To Know more about me check out [My Website](https://atul-dev.netlify.app)
       
 - 📫 How to reach me **atulkharwal9329@gmail.com**
 
