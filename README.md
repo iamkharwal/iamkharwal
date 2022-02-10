@@ -22,7 +22,7 @@
 - 👨‍💻 Life Hack: Big Things Start Small 🎉
     
     </td>
-    <td><img src="https://doc-0c-3s-docs.googleusercontent.com/docs/securesc/vpch4fpudt3g2sf7ohu12fcvce12aatk/jkbfoqeconfekpck97vta7bpbnfopsv0/1644518475000/08927670835534610868/08927670835534610868/1GSMe_wNaD-cnf3tP3UjuGchnC5eFDATi?e=view&authuser=0&nonce=7cmgid7vstaf2&user=08927670835534610868&hash=d9r6u5v2746eclavqm0imir5fr57cpi8"></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1GSMe_wNaD-cnf3tP3UjuGchnC5eFDATi/"></td>
   </tr>
  </table>
 
