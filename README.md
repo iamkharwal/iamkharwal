@@ -22,7 +22,7 @@
 - 👨‍💻 Life Hack: Big Things Start Small 🎉
     
     </td>
-    <td><img src="https://github.com/iamkharwal/React-Portfolio/blob/main/Images/giphy.gif"></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1GSMe_wNaD-cnf3tP3UjuGchnC5eFDATi"></td>
   </tr>
  </table>
 
